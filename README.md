@@ -1,2 +1,2 @@
-# Thi-t-k-s-v-vi-x-l-
+# Code Vi Mạch
 BTVN Thiết kế số và vi xử lý
